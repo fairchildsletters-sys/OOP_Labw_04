@@ -46,7 +46,7 @@ A monthly corporate remuneration calculation and payroll management application 
 ├── Test/
 │   └── Test.cs                # System verification and test execution suite
 ├── Design.pdf                 # Analysis, class design specifications, and test report
-├── OOP_Exercise_04.csproj     # .NET project configuration file
+├── OOP_Labw_04.csproj     # .NET project configuration file
 └── README.md                  # Documentation and system specifications
 ```
 

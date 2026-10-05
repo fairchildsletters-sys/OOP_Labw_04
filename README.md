@@ -49,7 +49,7 @@ Chương trình tính thu nhập và quản lý bảng lương hàng tháng cho 
 │   └── SalesEmployee.cs       # Nhân viên kinh doanh theo lương cứng và hoa hồng
 ├── Test/
 │   └── Test.cs                # Chương trình thực thi kiểm thử và xác minh hệ thống
-├── OOP_Exercise_04.csproj     # File cấu hình dự án .NET
+├── OOP_Labw_04.csproj     # File cấu hình dự án .NET
 └── README.md                  # Tài liệu hướng dẫn và đặc tả hệ thống
 ```
 
